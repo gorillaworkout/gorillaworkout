@@ -80,7 +80,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gorillaworkout&theme=radical" />
 </p>  
 
-<a href="https://gitstalk.netlify.app/avinash-218/" target="_blank"> See My Latest Activities Here</a>
+<a href="https://gitstalk.netlify.app/gorillaworkout/" target="_blank"> See My Latest Activities Here</a>
   
 
 <!-- <img src ="Images/social_dashboard.svg" align = "left" width = 50%> -->
