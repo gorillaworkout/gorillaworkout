@@ -13,7 +13,7 @@
   <tr>
     <td valign="top">
       <p>
-      - Currently working with <a href="https://www.shintavr.com" target="_black">SHINTA VR</a> as a Front End Developer. 🏥 <br>
+      - Currently working with <a href="https://www.shintavr.com" target="_black">UXBEE</a> as a Front End Developer. 🏥 <br>
       - Looking for opportunities and collaborations in the field of Front End ✅<br>
       - Seeking opportunities to work in a challenging environments and push my boundaries.💪<br>
       </p>
