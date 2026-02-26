@@ -10,7 +10,8 @@
   <tr>
     <td valign="top">
       <p>
-        - Currently working with <a href="https://www.shintavr.com" target="_blank">UXBEE</a> as a Front End Developer. 🏥 <br>
+        - Currently working at <a href="https://dupoin.com" target="_blank">Dupoin</a> as a Front End Developer. 💼 <br>
+        - Building micro-frontend architectures with ESMX framework. 🚀<br>
         - Looking for opportunities and collaborations in Front End development. ✅<br>
         - Seeking challenges that push my boundaries and help me grow. 💪<br>
       </p>
@@ -23,20 +24,28 @@
 
 ---
 
+## 🚀 Active Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [ICA Cheerleading](https://indonesiancheer.org) | Official website for Indonesia Cheerleading Association | Next.js 15, React 19, Supabase, Tailwind CSS |
+| [Dupoin Dashboard](https://hr-app.gorillaworkout.id) | HR Management Dashboard with Lark Base & Xero integration | Next.js 16, PostgreSQL, Prisma, Docker |
+| [MySuperApp](https://demoesmx.gorillaworkout.id) | ESMX micro-frontend demo — React, Vue 2, Vue 3 in one SPA | ESMX, TypeScript, Docker, SSR |
+| [Crown Allstar](https://github.com/gorillaworkout/crown-allstar-new) | Professional cheerleading team website | Next.js 15, CSS Animations |
+
+---
+
 <div align="center">
   <h2>Tech Toolbox 🧰</h2>
   <p>
     <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200"/>
   </p>
   <p align="center">
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     </a>
-    <a href="https://github.com/" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://img.shields.io/badge/JS-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
+    <a href="https://nextjs.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
     </a>
     <a href="https://reactjs.org/" target="_blank">
       <img src="https://img.shields.io/badge/REACT-JS-blue?style=for-the-badge&logo=react&logoColor=white" alt="React JS"/>
@@ -44,17 +53,23 @@
     <a href="https://vuejs.org/" target="_blank">
       <img src="https://img.shields.io/badge/VUE-JS-green?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue JS"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-      <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://img.shields.io/badge/JS-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-      <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
     </a>
-    <a href="https://sass-lang.com/" target="_blank">
-      <img src="https://img.shields.io/badge/-SCSS-green?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
+    <a href="https://www.docker.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     </a>
     <a href="https://nodejs.org/en/" target="_blank">
       <img src="https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     </a>
   </p>
 </div>
@@ -64,6 +79,7 @@
 ## 🚀 GitHub Stats
 
 <h3 align="left">Profile Views:</h3>
+
 ![Profile views](https://gpvc.arturio.dev/gorillaworkout)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorillaworkout&theme=radical)
